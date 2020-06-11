@@ -1,0 +1,10 @@
+{
+  "cfg": {
+    "username": "user",
+    "password": "password",
+    "data_basename": "alias_db_from_tnsnames.oRA",
+    "path_dir": "C:\\Users\\user\\awr",
+    "from": "04/06/20 08:00",
+    "to": "04/06/20 12:00"
+  }
+}
